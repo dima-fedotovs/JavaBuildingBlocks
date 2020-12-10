@@ -1,4 +1,4 @@
-package demo;
+package guess;
 
 public class GameResult {
     private String name;
